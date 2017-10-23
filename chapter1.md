@@ -1,4 +1,3 @@
----
 ## A really bad movie
 
 ```yaml
